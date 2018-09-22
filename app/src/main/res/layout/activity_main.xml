@@ -46,7 +46,7 @@
     <TextView
         android:id="@+id/textView3"
         style="@style/CustomFontStyle2"
-        android:text="Distance from UST"
+        android:text="Distance from UST : 9.5km"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
